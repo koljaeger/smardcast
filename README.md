@@ -3,7 +3,7 @@
 This repo provides supporting material for our publication _SMARDcast: Day-Ahead Forecasting of German Electricity Consumption with Deep Learning_.
 Published in: International Conference on Smart Energy System and Technologies (SEST) 2024, https://ieeexplore.ieee.org/document/10694018
 
-Cobtact: Nick Krüger & Kolja Eger
+Contact: Nick Krüger & Kolja Eger
 E-Mail: {nick.krueger, kolja.eger}@haw-hamburg.de
 
 If you find this repo and/or the paper helpful, you could cite our work as follows
